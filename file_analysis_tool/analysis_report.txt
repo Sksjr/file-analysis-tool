@@ -1,0 +1,25 @@
+File Analysis Report
+Generated: 2024-12-23 17:25:42
+============================================================
+File Type:
+  application/zip
+
+Extracted Text (Preview):
+  PKPNYLmYrclue.txtUT-%g4%gux] )1Nh]gARbkSXl$X"y)uFjo:!}+yPK
+`_NY>duu
+secret.zipUT?g?guxPK
+t^NYsecret_
+
+Hex Analysis:
+  Hex Dump (First 64 bytes): 00000000  50 4b 03 04 14 00 00 00 08 00 b1 50 4e 59 ea 4c   PK.........PNY.L
+00000010  e4 6d 59 00 00 00 72 00 00 00 08 00 1c 00 63 6c   .mY...r.......cl
+00000020  75 65 2e 74 78 74 55 54 09 00 03 2d 25 0d 67 34   ue.txtUT...-%.g4
+00000030  25 0d 67 75 78 0b 00 01 04 e8 03 00 00 04 e8 03   %.gux...........
+  Header Preview: 
+
+LSB Analysis:
+  Not applicable (not an image).
+
+Custom Steganography Detection:
+  Not applicable (not an image).
+
